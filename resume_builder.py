@@ -34,6 +34,7 @@ def add_contact_info():
     resume_data["contact_info"]["github"] = prompt("GitHub URL: ")
     back_to_menu()
 
+
 # Add work experience
 def add_experience():
     while True:
