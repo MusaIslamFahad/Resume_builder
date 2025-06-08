@@ -18,6 +18,7 @@ resume_data = {
     "achievements": []
 }
 
+
 # Function to navigate back to the main menu
 def back_to_menu():
     print("\nReturning to main menu...")
