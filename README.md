@@ -110,13 +110,11 @@ We love contributions! If you have ideas for new features, ways to improve the t
 
 ---
 
+
 ## ⭐ Show Your Support
 
 If you found this project helpful and it made building your resume easier, please consider giving it a ⭐ **star on GitHub**!
 
 Your support helps others discover this tool and encourages further development. Don't forget to **share it with your network** too!
-
-
-
 
 
